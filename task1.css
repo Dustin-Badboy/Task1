@@ -95,7 +95,7 @@ h2{
 .resume:hover{
 	color: springgreen;
 }
-@media screen and (max-width:425px){
+/* @media screen and (max-width:425px){
 	.main{
 		flex-direction: column;
 	}
@@ -121,4 +121,4 @@ h2{
 	.first{
 		background-color: crimson;
 	}
-}
+} */ 
